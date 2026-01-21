@@ -95,9 +95,13 @@ Traditional online courses are expensive and lack personalization. Many people w
 > - Matching algorithm in action
 > - Rating system demonstration
 
-**Video Link:** _[Add your demo video URL here]_
+**Video Link:** 
+https://github.com/user-attachments/assets/b2a7f4f1-21f0-4c28-91f2-9cdc5307716f
 
 ---
+
+
+
 
 ## 🚀 Installation & Setup
 
